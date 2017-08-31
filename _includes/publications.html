@@ -1,0 +1,42 @@
+<section id="publications">
+  <h2><span>Publications</span></h2>
+
+  {% for paper in site.data.publication %}
+  <div class="paper-entry">
+      <div class="paper-thumb">
+        <div class="paper-thumb-wrapper">
+          {% if paper.thumbnail %}
+          <img src="{{ paper.thumbnail }}" />
+          {% else %}
+          <img src="images/publication_thumb/default.png" />
+          {% endif %}
+        </div>
+      </div>
+      <div class="paper-details">
+          {% if paper.pdf  %}
+          {% assign pdf = paper.pdf  %}
+          {% else  %}
+          {% for asset in paper.assets %}
+          {%   if asset.name == 'Paper' %}
+          {%     assign pdf = asset.url  %}
+          {%   endif  %}
+          {% endfor  %}
+          {% if pdf %}
+          {% else %}
+          {% assign pdf = '#' %}
+          {% endif %}
+        {% endif  %}
+          <p class="paper-title">{% if pdf %}<a href="{{ pdf }}">{% endif %}{{ paper.title }}{% if pdf %}</a>{% endif %}</p>
+          <p class="paper-authors">{{ paper.authors }}</p>
+          <p class="paper-location">{{ paper.location }}</p>
+          {% if paper.abstract %}<p class="paper-abstract">{{ paper.abstract }}</p>{% endif %}
+          <p class="paper-assets">
+          {% for asset in paper.assets %}
+          <span class="assets-item">{% if asset.url %}<a href="{{ asset.url }}">{% else %}<a href="#" onclick="return false;">{% endif %} <img src="{% if asset.icon %}{{ asset.icon }}{% else %}images/icon/download.png{% endif %}" class="assets-icon" /><span>{{ asset.name }}</span></a></span>
+          {% endfor %}
+          </p>
+      </div>
+  </div>
+  {% endfor %}
+
+</section>

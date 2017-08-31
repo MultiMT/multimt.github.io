@@ -1,0 +1,6 @@
+<section id="about">
+    <h2><span>About</span></h2>
+    {% for post in site.categories.about%}
+    {{ post.content }}
+    {% endfor %}
+</section>

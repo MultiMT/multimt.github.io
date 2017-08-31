@@ -1,0 +1,39 @@
+members:
+  - name: Lucia Specia
+    url: http://staffwww.dcs.shef.ac.uk/people/L.Specia/
+    role: "Leader"
+    area: "Machine Translation"
+    photo: "images/people/lucia.jpg"
+
+  - name: Pranava Madhyastha
+    url: http://www.cs.upc.edu/~pranava/
+    role: "Postdoctoral researcher"
+    area: "Machine Learning/NLP"
+    photo: "images/people/pranava.jpg"
+
+  - name: Josiah Wang
+    url: http://www.josiahwang.com/
+    role: "Postdoctoral researcher"
+    area: "Computer Vision/NLP"
+    photo: "images/people/josiah.jpg"
+
+  - name: Salil Deena
+    url: https://sites.google.com/site/salildeena/
+    role: "Postdoctoral researcher"
+    area: "Speech Processing"
+    photo: "images/people/salil.png"
+
+  - name: Chiraag Lala
+    url: http://www.dcs.shef.ac.uk/cgi-bin/makeperson?C.Lala
+    role: "Ph.D. postgraduate"
+    photo: "images/people/chiraag.jpg"
+
+  - name: Abigail Smith
+    role: "Research Intern"
+
+former:
+  - name: Raymond Ng
+    url: http://staffwww.dcs.shef.ac.uk/people/W.Ng/
+    role: "Postdoctoral researcher"
+    area: "Speech Processing"
+    photo: "images/people/raymond.jpg"

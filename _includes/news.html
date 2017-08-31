@@ -1,0 +1,6 @@
+<section id="news">
+    <h2><span>News</span></h2>
+{% for news in site.data.news %}
+<p class="news-item"><span class="news-item-date">[{{ news.date }}]</span> <span class="news-item-text">{{ news.description | markdownify | remove: '<p>' | remove: '</p>' }}</span></p>
+{% endfor %}
+</section>

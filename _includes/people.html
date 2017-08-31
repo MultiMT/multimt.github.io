@@ -1,0 +1,23 @@
+<section id="people">
+  <h2><span>Team</span></h2>
+
+  <h3>Members</h3>
+  {% for person in site.data.people['members'] %}
+  <div class="member">
+    <a href="{% if person.url %}{{ person.url }}{% else %}#{% endif %}" class="member-picture-link"><img src="{% if person.photo %}{{ person.photo }}{% else %} images/people/default.png{% endif %}" /></a><br/>
+    <p class="member-name"><a href="{% if person.url %}{{ person.url }}{% else %}#{% endif %}" class="member-name-link">{{ person.name }}</a></p>
+    <p class="member-role">{% if person.role %}{{ person.role }}{% else %}&nbsp;{% endif %}</p>
+    <p class="member-area">{% if person.area %}({{ person.area }}){% else %}&nbsp;{% endif %}</p>
+  </div>
+  {% endfor %}
+
+  <h3>Former Members</h3>
+  {% for person in site.data.people['former'] %}
+  <div class="member">
+    <a href="{% if person.url %}{{ person.url }}{% else %}#{% endif %}" class="member-picture-link"><img src="{% if person.photo %}{{ person.photo }}{% else %} images/people/default.png{% endif %}" /></a><br/>
+    <p class="member-name"><a href="{% if person.url %}{{ person.url }}{% else %}#{% endif %}" class="member-name-link">{{ person.name }}</a></p>
+    <p class="member-role">{% if person.role %}{{ person.role }}{% else %}&nbsp;{% endif %}</p>
+    <p class="member-area">{% if person.area %}({{ person.area }}){% else %}&nbsp;{% endif %}</p>
+  </div>
+  {% endfor %}
+</section>

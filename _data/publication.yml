@@ -1,0 +1,32 @@
+- title: "Sheffield MultiMT: Using Object Posterior Predictions for Multimodal Machine Translation"
+  authors: "Pranava Madhyastha*, Josiah Wang*, Lucia Specia (* denotes equal contribution)"
+  abstract: "We participated in the Multimodal Machine Translation (MMT) shared task of translating image descriptions from English to German/French given the corresponding image. Can the use of object posterior predictions instead of lower-level image features help MMT?"
+  location: "Conference on Machine Translation (WMT), 2017"
+  thumbnail: "images/publication_thumb/wmt2017.png"
+  assets:
+  - name: Paper
+    url: "http://www.statmt.org/wmt17/pdf/WMT52.pdf"
+    icon: "images/icon/pdf.png"
+
+- title: "Semi-supervised Adaptation of RNNLMs by Fine-tuning with Domain-specific Auxiliary Features"
+  authors: "Salil Deena, Raymond Ng, Pranava Madhyastha, Lucia Specia, Thomas Hain"
+  abstract: "How do we fine-tune RNN Language Models with auxiliary features for a specific domain?"
+  location: "Interspeech, 2017"
+  thumbnail: "images/publication_thumb/interspeech2017.png"
+  assets:
+  - name: Paper
+    url: "downloads/papers/interspeech2017.pdf"
+    icon: "images/icon/pdf.png"
+
+- title: "Unraveling the Contribution of Image Captioning and Neural Machine Translation for Multimodal Machine Translation"
+  authors: "Chiraag Lala, Pranava Madhyastha, Josiah Wang, Lucia Specia"
+  abstract: "What are the contributions of image captioning and neural machine translation systems in Multimodal Machine Translation? Can we use the output of image captioning systems to rerank neural machine translation hypotheses?"
+  location: "European Association for Machine Translation (EAMT), 2017"
+  thumbnail: "images/publication_thumb/eamt2017.png"
+  assets:
+  - name: Paper
+    url: "https://ufal.mff.cuni.cz/pbml/108/art-lala-madhyastha-wang-specia.pdf"
+    icon: "images/icon/pdf.png"
+  - name: Poster
+    url: "http://www.josiahwang.com/publications/eamt17_poster.pdf"
+    icon: "images/icon/ppt.png"
