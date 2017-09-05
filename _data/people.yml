@@ -28,12 +28,12 @@ members:
     role: "Ph.D. postgraduate"
     photo: "images/people/chiraag.jpg"
 
-  - name: Abigail Smith
-    role: "Research Intern"
-
 former:
   - name: Raymond Ng
     url: http://staffwww.dcs.shef.ac.uk/people/W.Ng/
     role: "Postdoctoral researcher"
     area: "Speech Processing"
     photo: "images/people/raymond.jpg"
+
+  - name: Abigail Smith
+    role: "Research Intern"
