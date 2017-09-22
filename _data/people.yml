@@ -27,6 +27,10 @@ members:
     url: http://www.dcs.shef.ac.uk/cgi-bin/makeperson?C.Lala
     role: "Ph.D. postgraduate"
     photo: "images/people/chiraag.jpg"
+    
+  - name: Thales Bertaglia
+    role: "Ph.D. postgraduate"
+    photo: "images/people/thales.jpg"
 
 former:
   - name: Raymond Ng
