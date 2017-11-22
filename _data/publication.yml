@@ -1,3 +1,12 @@
+- title: "Exploring the Use of Acoustic Embeddings in Neural Machine Translation"
+  authors: "Salil Deena, Raymond WM Ng, Pranava Madhyashtha, Lucia Specia, and Thomas Hain"
+  abstract: ""
+  location: "Automatic Speech Recognition and Understanding Workshop (ASRUW), 2017"
+  assets:
+  - name: Paper
+    url: "http://staffwww.dcs.shef.ac.uk/people/P.Madhyastha/papers/asru17.pdf"
+    icon: "images/icon/pdf.png"
+
 - title: "Sheffield MultiMT: Using Object Posterior Predictions for Multimodal Machine Translation"
   authors: "Pranava Madhyastha*, Josiah Wang*, Lucia Specia (* denotes equal contribution)"
   abstract: "We participated in the Multimodal Machine Translation (MMT) shared task of translating image descriptions from English to German/French given the corresponding image. Can the use of object posterior predictions instead of lower-level image features help MMT?"
