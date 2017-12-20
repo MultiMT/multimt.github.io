@@ -1,3 +1,11 @@
+- title: "Multimodal Lexical Translation"
+  authors: "Chiraag Lala and Lucia Specia"
+  abstract: ""
+  location: "Language Resources and Evaluation Conference (LREC), 2018"
+  assets:
+  - name: Paper
+    icon: "images/icon/pdf.png"
+
 - title: "Exploring the Use of Acoustic Embeddings in Neural Machine Translation"
   authors: "Salil Deena, Raymond WM Ng, Pranava Madhyashtha, Lucia Specia, and Thomas Hain"
   abstract: ""
