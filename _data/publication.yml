@@ -1,6 +1,6 @@
 - title: "Object Counts! Bringing Explicit Detections Back into Image Captioning"
   authors: "Josiah Wang, Pranava Madhyastha, Lucia Specia"
-  abstract: "We participated in the Multimodal Machine Translation (MMT) shared task of translating image descriptions from English to German/French given the corresponding image. Can the use of object posterior predictions instead of lower-level image features help MMT?"
+  abstract: ""
   location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL HLT), 2018"
   assets:
   - name: Paper
