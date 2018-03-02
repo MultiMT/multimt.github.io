@@ -1,7 +1,15 @@
+- title: "Defoiling FOiled Image Captions"
+  authors: "Pranava Madhyastha, Josiah Wang, Lucia Specia"
+  abstract: ""
+  location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL HLT), Short Paper, 2018"
+  assets:
+  - name: Paper
+    icon: "images/icon/pdf.png"
+
 - title: "Object Counts! Bringing Explicit Detections Back into Image Captioning"
   authors: "Josiah Wang, Pranava Madhyastha, Lucia Specia"
   abstract: ""
-  location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL HLT), 2018"
+  location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL HLT), Long Paper, 2018"
   assets:
   - name: Paper
     icon: "images/icon/pdf.png"
@@ -12,6 +20,7 @@
   location: "Language Resources and Evaluation Conference (LREC), 2018"
   assets:
   - name: Paper
+    url: "downloads/papers/lrec2018.pdf"
     icon: "images/icon/pdf.png"
 
 - title: "Exploring the Use of Acoustic Embeddings in Neural Machine Translation"
