@@ -12,6 +12,7 @@
   location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL HLT), Long Paper, 2018"
   assets:
   - name: Paper
+    url: https://arxiv.org/abs/1805.00314
     icon: "images/icon/pdf.png"
 
 - title: "Multimodal Lexical Translation"
