@@ -10,6 +10,7 @@
   authors: "Josiah Wang, Pranava Madhyastha, Lucia Specia"
   abstract: ""
   location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL HLT), Long Paper, 2018"
+  thumbnail: "images/publication_thumb/naacl2018_long.png"
   assets:
   - name: Paper
     url: https://arxiv.org/pdf/1805.00314
