@@ -4,6 +4,7 @@
   location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL HLT), Short Paper, 2018"
   assets:
   - name: Paper
+    url: https://arxiv.org/pdf/1805.06549
     icon: "images/icon/pdf.png"
 
 - title: "Object Counts! Bringing Explicit Detections Back into Image Captioning"
