@@ -1,3 +1,15 @@
+- title: "End-to-end Image Captioning Exploits Multimodal Distributional Similarity"
+  authors: "Pranava Madhyastha, Josiah Wang, Lucia Specia"
+  abstract: ""
+  location: "British Machine Vision Conference (BVMC), 2018"
+  assets:
+  - name: Paper
+    url: http://bmvc2018.org/contents/papers/0925.pdf
+    icon: "images/icon/pdf.png"
+  - name: Appendix
+    url: http://bmvc2018.org/contents/supplementary/pdf/0925_supp.pdf
+    icon: "images/icon/pdf.png"  
+
 - title: "Defoiling Foiled Image Captions"
   authors: "Pranava Madhyastha, Josiah Wang, Lucia Specia"
   abstract: ""
@@ -15,6 +27,15 @@
   assets:
   - name: Paper
     url: https://arxiv.org/pdf/1805.00314
+    icon: "images/icon/pdf.png"
+
+- title: "The Role of Image Representations in Vision to Language Tasks"
+  authors: "Pranava Madhyastha, Josiah Wang, Lucia Specia"
+  abstract: ""
+  location: "Natural Language Engineering, 24 (3): 415-439, 2018"
+  assets:
+  - name: Paper
+    url: https://www.cambridge.org/core/journals/natural-language-engineering/article/role-of-image-representations-in-vision-to-language-tasks/A042EBCA3CAABD48D7173AFD797B15F3/share/4850a293302e662ad1852335a43e91d31fc0c101
     icon: "images/icon/pdf.png"
 
 - title: "Multimodal Lexical Translation"
