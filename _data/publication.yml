@@ -1,11 +1,11 @@
 - title: "Probing the Need for Visual Context in Multimodal Machine Translation"
   authors: "Ozan Caglayan, Pranava Madhyastha, Lucia Specia, Loïc Barrault"
-  abstract: "<strong>Best short paper</strong>"
+  abstract: "<strong style='color:#800000;font-weight:bold;'>Best short paper</strong>"
   location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL NLT), Short Paper, 2019"
   thumbnail: "images/publication_thumb/naacl2019.png"
   assets:
   - name: Paper
-    url: http://arxiv.org/pdf/1903.08678.pdf
+    url: "http://arxiv.org/pdf/1903.08678.pdf"
     icon: "images/icon/pdf.png"  
 
 - title: "End-to-end Image Captioning Exploits Multimodal Distributional Similarity"
@@ -15,10 +15,10 @@
   thumbnail: "images/publication_thumb/bmvc2018.png"
   assets:
   - name: Paper
-    url: http://bmvc2018.org/contents/papers/0925.pdf
+    url: "http://bmvc2018.org/contents/papers/0925.pdf"
     icon: "images/icon/pdf.png"
   - name: Appendix
-    url: http://bmvc2018.org/contents/supplementary/pdf/0925_supp.pdf
+    url: "http://bmvc2018.org/contents/supplementary/pdf/0925_supp.pdf"
     icon: "images/icon/pdf.png"  
 
 - title: "Defoiling Foiled Image Captions"
@@ -28,10 +28,10 @@
   thumbnail: "images/publication_thumb/naacl2018_short.png"
   assets:
   - name: Paper 
-    url: https://www.aclweb.org/anthology/N18-2069
+    url: "https://www.aclweb.org/anthology/N18-2069"
     icon: "images/icon/pdf.png"
   - name: arXiv
-    url: https://arxiv.org/pdf/1805.06549
+    url: "https://arxiv.org/pdf/1805.06549"
     icon: "images/icon/pdf.png"
 
 - title: "Object Counts! Bringing Explicit Detections Back into Image Captioning"
@@ -41,11 +41,14 @@
   thumbnail: "images/publication_thumb/naacl2018_long.png"
   assets:
   - name: Paper 
-    url: https://www.aclweb.org/anthology/N18-1198
+    url: "https://www.aclweb.org/anthology/N18-1198"
     icon: "images/icon/pdf.png"
   - name: arXiv
-    url: https://arxiv.org/pdf/1805.00314
+    url: "https://arxiv.org/pdf/1805.00314"
     icon: "images/icon/pdf.png"
+  - name: Poster
+    url: "http://www.josiahwang.com/publications/naacl18_poster.pdf"
+    icon: "images/icon/ppt.png"
 
 - title: "The Role of Image Representations in Vision to Language Tasks"
   authors: "Pranava Madhyastha, Josiah Wang, Lucia Specia"
