@@ -6,7 +6,7 @@ members:
     photo: "images/people/lucia.jpg"
 
   - name: Pranava Madhyastha
-    url: http://www.cs.upc.edu/~pranava/
+    url: https://www.doc.ic.ac.uk/~pshantha/
     role: "Postdoctoral researcher"
     area: "Machine Learning/NLP"
     photo: "images/people/pranava.jpg"
@@ -34,7 +34,7 @@ members:
 
 former:
   - name: Raymond Ng
-    url: http://staffwww.dcs.shef.ac.uk/people/W.Ng/
+    url: https://www.linkedin.com/in/raymond-wm-ng/
     role: "Postdoctoral researcher"
     area: "Speech Processing"
     photo: "images/people/raymond.jpg"

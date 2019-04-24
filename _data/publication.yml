@@ -1,7 +1,8 @@
 - title: "Probing the Need for Visual Context in Multimodal Machine Translation"
   authors: "Ozan Caglayan, Pranava Madhyastha, Lucia Specia, Loïc Barrault"
-  abstract: "Best short paper"
+  abstract: "*Best short paper*"
   location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL NLT), Short Paper, 2019"
+  thumbnail: "images/publication_thumb/naacl2019.png"
   assets:
   - name: Paper
     url: http://arxiv.org/pdf/1903.08678.pdf
@@ -24,7 +25,10 @@
   abstract: ""
   location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL HLT), Short Paper, 2018"
   assets:
-  - name: Paper
+  - name: Paper 
+    url: https://www.aclweb.org/anthology/N18-1198
+    icon: "images/icon/pdf.png"
+  - name: arXiv
     url: https://arxiv.org/pdf/1805.06549
     icon: "images/icon/pdf.png"
 
@@ -34,7 +38,10 @@
   location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL HLT), Long Paper, 2018"
   thumbnail: "images/publication_thumb/naacl2018_long.png"
   assets:
-  - name: Paper
+  - name: Paper 
+    url: https://www.aclweb.org/anthology/N18-1198
+    icon: "images/icon/pdf.png"
+  - name: arXiv
     url: https://arxiv.org/pdf/1805.00314
     icon: "images/icon/pdf.png"
 
