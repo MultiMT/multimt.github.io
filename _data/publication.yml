@@ -1,3 +1,12 @@
+- title: "Probing the Need for Visual Context in Multimodal Machine Translation"
+  authors: "Ozan Caglayan, Pranava Madhyastha, Lucia Specia, Loïc Barrault"
+  abstract: "Best short paper"
+  location: "North American Chapter of the Association of Computational Linguistics: Human Language Technology (NAACL NLT), Short Paper, 2019"
+  assets:
+  - name: Paper
+    url: http://arxiv.org/pdf/1903.08678.pdf
+    icon: "images/icon/pdf.png"  
+
 - title: "End-to-end Image Captioning Exploits Multimodal Distributional Similarity"
   authors: "Pranava Madhyastha, Josiah Wang, Lucia Specia"
   abstract: ""
