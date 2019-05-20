@@ -1,4 +1,4 @@
-- title: "<span style=\"font-family:\"Courier New\", Courier, monospace;\">VIFIDEL</span>: Evaluating the Visual Fidelity of Image Descriptions"
+- title: "<span style=\"font-family:'Courier New', Courier, monospace;\">VIFIDEL</span>: Evaluating the Visual Fidelity of Image Descriptions"
   authors: "Pranava Madhyastha, Josiah Wang, Lucia Specia"
   abstract: "Evaluating the faithfulness of a generated image description with respect to the content of the actual image. Can be used without reference descriptions."
   location: "Association of Computational Linguistics (ACL), Long Paper, 2019"
