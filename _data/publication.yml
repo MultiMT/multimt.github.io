@@ -46,21 +46,11 @@
     url: "downloads/posters/sivl2019.pdf"
     icon: "images/icon/ppt.png"  
 
-- title: "Findings of the Third Shared Task on Multimodal Machine Translation"
-  authors: "Loïc Barrault, Fethi Bougares, Lucia Specia, Chiraag Lala, Desmond Elliott, Stella Frank"
-  abstract: ""
-  location: "Conference on Machine Translation (WMT), 2018"
-  thumbnail: "images/publication_thumb/wmt2018.png"
-  assets:
-  - name: Paper
-    url: "https://www.aclweb.org/anthology/W18-6402"
-    icon: "images/icon/pdf.png"  
-
 - title: "How2: A Large-scale Dataset for Multimodal Language Understanding"
   authors: "Ramon Sanabria, Ozan Caglayan, Shruti Palaskar, Desmond Elliott, Loic Barrault, Lucia Specia, Florian Metze"
   abstract: ""
   location: "Visually Grounded Interaction and Language (ViGIL) @ NeurIPS, 2018"
-  thumbnail: "images/publication_thumb/wmt2018_shef.png"
+  thumbnail: "images/publication_thumb/vigil2018.png"
   assets:
   - name: Paper
     url: "https://arxiv.org/abs/1811.00347"
@@ -68,6 +58,19 @@
   - name: The How2 Challenge
     url: "https://srvk.github.io/how2-challenge/"
     icon: "images/icon/link.png"  
+
+- title: "Sheffield Submissions for WMT18 Multimodal Translation Shared Task"
+  authors: "Loïc Barrault, Fethi Bougares, Lucia Specia, Chiraag Lala, Desmond Elliott, Stella Frank"
+  abstract: ""
+  location: "Conference on Machine Translation (WMT), 2018"
+  thumbnail: "images/publication_thumb/wmt2018_shef.png"
+  assets:
+  - name: Paper
+    url: "https://www.aclweb.org/anthology/W18-6442"
+    icon: "images/icon/pdf.png"  
+  - name: Poster
+    url: "downloads/posters/wmt2018_shef.pdf"
+    icon: "images/icon/ppt.png"
 
 - title: "Findings of the Third Shared Task on Multimodal Machine Translation"
   authors: "Loïc Barrault, Fethi Bougares, Lucia Specia, Chiraag Lala, Desmond Elliott, Stella Frank"
