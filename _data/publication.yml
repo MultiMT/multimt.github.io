@@ -60,7 +60,7 @@
     icon: "images/icon/link.png"  
 
 - title: "Sheffield Submissions for WMT18 Multimodal Translation Shared Task"
-  authors: "Loïc Barrault, Fethi Bougares, Lucia Specia, Chiraag Lala, Desmond Elliott, Stella Frank"
+  authors: "Chiraag Lala, Pranava Madhyastha, Carolina Scarton, Lucia Specia"
   abstract: ""
   location: "Conference on Machine Translation (WMT), 2018"
   thumbnail: "images/publication_thumb/wmt2018_shef.png"
