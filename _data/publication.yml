@@ -17,6 +17,15 @@
     url: "#"
     icon: "images/icon/pdf.png"  
 
+- title: "Predicting Actions to Help Predict Translations"
+  authors: "Zixiu Wu, Julia Ive, Josiah Wang, Pranava Madhyastha, Lucia Specia"
+  abstract: ""
+  location: "The How2 Challenge: New Tasks for Vision and Language @ ICML (workshop), 2019"
+  assets:
+  - name: Paper
+    url: "#"
+    icon: "images/icon/pdf.png"  
+
 - title: "Probing the Need for Visual Context in Multimodal Machine Translation"
   authors: "Ozan Caglayan, Pranava Madhyastha, Lucia Specia, Loïc Barrault"
   abstract: "<strong style='color:#800000;font-weight:bold;'>Best short paper</strong>"
