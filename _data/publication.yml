@@ -18,7 +18,7 @@
     url: "downloads/papers/acl2019_ive.pdf"
     icon: "images/icon/pdf.png"  
   - name: arXiv
-    url: "https://arxiv.org/abs/1906.07701";
+    url: "https://arxiv.org/abs/1906.07701"
     icon: "images/icon/pdf.png"
 
 - title: "Predicting Actions to Help Predict Translations"
