@@ -5,17 +5,21 @@
   thumbnail: "images/publication_thumb/acl2019.png"
   assets:
   - name: Paper
-    url: "#"
+    url: "downloads/papers/acl2019.pdf"
     icon: "images/icon/pdf.png"  
 
 - title: "Distilling Translations with Visual Awareness"
   authors: "Julia Ive, Pranava Madhyastha, Lucia Specia"
-  abstract: ""
+  abstract: "The approach is based on deliberation networks to jointly learn to generate draft translations and refine them based on left and right side target context as well as structured visual information."
   location: "Association of Computational Linguistics (ACL), Long Paper, 2019"
+  thumbnail: "images/publication_thumb/acl2019_ive.jpg"
   assets:
   - name: Paper
-    url: "#"
+    url: "downloads/papers/acl2019_ive.pdf"
     icon: "images/icon/pdf.png"  
+  - name: arXiv
+    url: "https://arxiv.org/abs/1906.07701";
+    icon: "images/icon/pdf.png"
 
 - title: "Predicting Actions to Help Predict Translations"
   authors: "Zixiu Wu, Julia Ive, Josiah Wang, Pranava Madhyastha, Lucia Specia"
