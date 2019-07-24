@@ -17,6 +17,12 @@ members:
     area: "Computer Vision/NLP"
     photo: "images/people/josiah.jpg"
 
+  - name: Ozan Caglayan
+    url: http://www.ozancaglayan.com/
+    role: "Postdoctoral researcher"
+    area: "Multimodal ML"
+    photo: "images/people/ozan.jpg"
+  
   - name: Salil Deena
     url: https://sites.google.com/site/salildeena/
     role: "Postdoctoral researcher"

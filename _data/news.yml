@@ -1,13 +1,16 @@
-- date: 15/5/2019
+- date: 24/07/2019
+  description: "A paper on phrase localization without paired examples has been accepted for oral presentation at [ICCV 2019](http:/iccv2019.thecvf.com/)!"
+
+- date: 15/05/2019
   description: "Two long papers have been accepted at [ACL 2019](http://www.acl2019.org/)! One on evaluating the visual fidelity of image captions, another on distilling translations with images."
 
-- date: 10/4/2019
+- date: 10/04/2019
   description: "We have been awarded the best short paper at [NAACL 2019](http://naacl2019.org/)!"
 
-- date: 25/2/2019
+- date: 25/02/2019
   description: "A short paper has been accepted for an oral presentation at [NAACL 2019](http://naacl2019.org/)!"
 
-- date: 1/10/2018
+- date: 01/10/2018
   description: "The project and the team are moving to Imperial College London. More soon!"
   
 - date: 01/09/2018
