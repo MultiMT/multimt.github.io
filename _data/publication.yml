@@ -6,7 +6,10 @@
   assets:
   - name: Paper
     url: "downloads/papers/acl2019.pdf"
-    icon: "images/icon/pdf.png"  
+    icon: "images/icon/pdf.png" 
+  - name: arXiv
+    url: "https://arxiv.org/abs/1907.09340"
+    icon: "images/icon/pdf.png" 
 
 - title: "Distilling Translations with Visual Awareness"
   authors: "Julia Ive, Pranava Madhyastha, Lucia Specia"
