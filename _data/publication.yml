@@ -7,10 +7,10 @@
   - name: Paper
     url: "http://www.josiahwang.com/publications/iccv19.pdf"
     icon: "images/icon/pdf.png" 
-  - name: Supplementary Document
+  - name: Appendix
     url: "http://www.josiahwang.com/publications/iccv19_supp.pdf"
     icon: "images/icon/pdf.png" 
-  - name: Evaluation Toolkit
+  - name: Evaluation Code
     url: "https://github.com/josiahwang/phraseloceval"
     icon: "images/icon/link.png"
 
