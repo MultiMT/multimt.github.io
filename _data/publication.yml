@@ -48,8 +48,8 @@
   abstract: ""
   location: "The How2 Challenge: New Tasks for Vision and Language @ ICML (workshop), 2019"
   assets:
-  - name: Paper
-    url: "#"
+  - name: arXiv
+    url: "https://arxiv.org/abs/1908.01665"
     icon: "images/icon/pdf.png"  
 
 - title: "Probing the Need for Visual Context in Multimodal Machine Translation"
